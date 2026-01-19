@@ -463,3 +463,4 @@ if __name__ == "__main__":
 
 # run epi demo (circle or poke drag)
 # python scripts/run_episode_patch.py   --tissue_npz data_demo/tissue_points_poke_drag.npz   --tool_npz   data_demo/tool_traj_poke_drag.npz   --out_dir    out_episode_patch_poke_drag   --k 16   --max_radius 0.0005   --dt 0.002   --iters 30   --mu 0.2   --lam 1.0   --eps 1e-4   --quasi_static   --save_every 20   --save_frame0 --grasp_radius 0.05
+
